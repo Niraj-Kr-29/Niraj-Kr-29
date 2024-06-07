@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niraj Kumar</h1>
 
-<h3 align="center">A passionate coder from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-- 🔭 I am presently enrolled in a Bachelor of Technology program in Engineering and Computational Mechanics at NIT Jamshedpur.
+- 🔭 I am presently enrolled in a Bachelor of Technology program in Engineering and Computational Mechanics at **NIT Jamshedpur**.
 
 <br>
 
