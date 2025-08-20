@@ -16,7 +16,7 @@
 
 <br>
 
-- 📫 How to reach me **nkr2348@gmail.com**.
+- 📫 How to reach me **niraj.kumar.codes@gmail.com**.
 
 <br>  
 
